@@ -165,4 +165,4 @@ Result: `{"mats": [...], "mat_count": float, "skipped": int}`. UI in `manager_ap
 
 ## Branch
 
-Active development branch: `claude/serene-heisenberg-7wufi5`
+Active development branch: `claude/update-md-files-f12pgo`
